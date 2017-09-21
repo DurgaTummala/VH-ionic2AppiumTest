@@ -1,1 +1,0 @@
-# VH-ionic2AppiumTest
